@@ -1,1 +1,12 @@
-iMessage Sticker Pack made in collaboration with artist Mike Mitchell. Craving a custom layout, making it an iMessage app extension was necessary. Using Swift and the Messages framework, I subclassed a collection view to be presented instead of the default view and made a custom cell to enable it for drag and drop functionalities. Each sticker was added to the project as a PNG, created as stickers, and stored in an array of stickers. Will be in the app store soon!
+iMessage Sticker Pack made with skullies, thumbs up, president icons, and other silly icons!
+
+The app was made using a custom collection view layout functioning as MSStickers.
+
+Take a peak at the icons below:
+
+!(https://cl.ly/nz1n/download/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202017-11-28%20at%2012.35.16.png)
+
+!(https://cl.ly/nyjZ/download/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202017-11-28%20at%2012.35.12.png)
+
+
+Check out the app in the iMessage App Store: https://itunes.apple.com/us/app/skully-pack/id1259534953?mt=8
